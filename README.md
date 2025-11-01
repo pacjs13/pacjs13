@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm pacjs</h1>
 <h3 align="center">a fullstack dev (mainly backend)</h3>
 
-<p align="left"> <a href="https://twitter.com/pacjsnix" target="blank"><img src="https://img.shields.io/twitter/follow/pacjsnix?logo=twitter&style=for-the-badge" alt="pacjsnix" /></a> </p>
-
 - 🔭 I’m currently working on [Yui bot](https://github.com/pacjs13/yui-bot)
 
 - 🌱 I’m currently learning **javascript, nodejs, reactjs, tailwind, php, mysql, postgresql**
